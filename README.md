@@ -1,4 +1,3 @@
-# dandi-fermeko-techtask-201910
 
 # Installation
     - run "git clone https://github.com/Fermekoo/TEST_CRUD_REPO_PATTERN.git"
